@@ -1,7 +1,8 @@
 # FaceFlow: Facial Action Units Estimator
 
 ## Purpose 🚀
-FaceFlow is a PyTorch Lightning-based repository simplifying the creation of models for detecting facial biomechanics through Facial Action Units(https://imotions.com/blog/learning/research-fundamentals/facial-action-coding-system/). It allows easy storage of configurations as code, enabling reproducibility for each experiment.
+FaceFlow is a PyTorch Lightning-based repository simplifying the creation of models for detecting facial biomechanics through [Facial Action Units](https://imotions.com/blog/learning/research-fundamentals/facial-action-coding-system/).<br>
+It allows easy storage of configurations as code, enabling reproducibility for each experiment.
 
 ## Overview 🏄🏽‍♂️
 The regular model can use any backbone, eg [ConvNext](https://arxiv.org/abs/2201.03545).<br>
